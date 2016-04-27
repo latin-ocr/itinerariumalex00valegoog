@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./itinerariumalex00valegoog_0008.png"; bbox 0 0 2776 4934; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 67 1088 995 1537">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 67 1088 995 1537">
+     <span class='ocr_line' id='line_1_1' title="bbox 67 1088 995 1224; baseline 0.001 -5"><span class='ocrx_word' id='word_1_1' title='bbox 67 1088 995 1224; x_wconf 86' lang='lat' dir='ltr'><strong>ITINERARIVM</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 295 1356 762 1537; baseline -0.006 -66"><span class='ocrx_word' id='word_1_2' title='bbox 295 1356 762 1537; x_wconf 73' lang='lat' dir='ltr'><strong>ALEXANDm.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 137 1892 1010 2061">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 137 1892 1010 2061">
+     <span class='ocr_line' id='line_1_3' title="bbox 137 1892 1010 2061; baseline 0.006 -7"><span class='ocrx_word' id='word_1_3' title='bbox 137 1892 418 2061; x_wconf 68' lang='lat' dir='ltr'>1&#39;vL11</span> <span class='ocrx_word' id='word_1_4' title='bbox 477 1941 1010 2059; x_wconf 81' lang='lat' dir='ltr'><strong>VALERII.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1392 4934">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1392 4934">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1392 4934; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 0 0 1392 4934; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
